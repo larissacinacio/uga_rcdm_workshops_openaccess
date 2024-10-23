@@ -1,0 +1,320 @@
+﻿name,borough,pit,condition,diameter,height,age,foliage_density,canopy,value
+American Elm,Staten Island,0,1,79.5,27.4,120,80,289.6,6838
+American Elm,Staten Island,,2,22.3,6.1,16,55,10.5,936
+American Elm,Manhattan,1,2,7.6,6.4,13,35,7.3,155
+American Elm,Manhattan,1,2,10.2,6.4,14,40,18.7,276
+American Holly,Staten Island,0,2,25.8,5.5,20,90,18.7,1215
+American Holly,Staten Island,0,2,27.1,5.2,23,90,12.3,1299
+Apple,Staten Island,0,2,50.7,11.6,64,50,49.3,3471
+Ash,Staten Island,1,2,20.3,9.1,31,65,49.3,975
+Ash,Staten Island,1,3,20.3,6.1,24,55,32.2,636
+Ash,Staten Island,1,2,22.9,8.5,34,70,70.1,1125
+Ash,Staten Island,1,2,20.3,13.4,29,75,57.2,975
+Ash,Staten Island,1,2,17.8,13.4,28,70,53.2,843
+Ash,Staten Island,1,2,17.8,13.4,28,70,53.2,843
+Ash,Staten Island,1,2,20.3,13.4,32,70,53.2,975
+Ash,Staten Island,1,2,61,19.5,94,50,105.4,5488
+Ash,Staten Island,1,2,20.3,12.2,40,65,45.6,975
+Ash,Bronx,1,2,22.9,9.4,37,75,42,1125
+Balsam Fir,Staten Island,0,2,7.6,4.6,20,55,10.5,155
+Black Cherry,Staten Island,0,2,63.5,19.8,125,40,134.9,5153
+Black Cherry,Staten Island,0,3,66,15.8,130,35,182.4,3614
+Black Cherry,Staten Island,0,2,17.8,9.1,35,50,35.3,801
+Black Cherry,Staten Island,0,2,25.4,14,50,35,53.2,1187
+Black Cherry,Staten Island,0,2,43,9.8,65,65,49.3,2592
+Black locust,Staten Island,0,3,68.6,21.9,108,40,128.7,3583
+Black locust,Staten Island,0,2,20.3,15.8,31,45,45.6,885
+Black locust,Staten Island,0,2,27.4,17.1,40,40,45.6,1245
+Black Oak,Staten Island,0,2,35.6,15.8,56,40,74.7,2139
+Blue Spruce,Staten Island,0,2,17.8,6.1,32,75,10.5,843
+Callery Pear,Staten Island,1,2,12.7,7.3,15,55,21.1,621
+Callery Pear,Staten Island,1,1,20.3,8.5,23,90,45.6,966
+Callery Pear,Staten Island,0,2,22.9,10.4,28,65,49.3,1048
+Callery Pear,Staten Island,1,2,24.9,4.9,10,75,7.3,1162
+Callery Pear,Staten Island,1,2,24.9,4.9,10,75,7.3,1162
+Callery Pear,Staten Island,1,2,24.9,4.9,10,75,8.8,1162
+Callery Pear,Staten Island,1,2,15.2,11.3,24,90,32.2,705
+Callery Pear,Manhattan,1,3,25.4,7.3,29,35,57.2,778
+Callery Pear,Manhattan,1,2,22.9,7.3,28,60,57.2,1048
+Callery Pear,Manhattan,1,2,25.4,7.3,29,55,49.3,1192
+Callery Pear,Manhattan,1,2,27.9,8.5,34,65,65.7,1352
+Callery Pear,Manhattan,1,2,35.6,8.5,41,80,128.7,1924
+Callery Pear,Manhattan,1,3,20.3,7.3,23,20,32.2,599
+Callery Pear,Manhattan,1,2,7.6,7.3,13,40,16.4,188
+Callery Pear,Manhattan,1,2,7.6,6.7,13,75,4.7,188
+Callery Pear,Manhattan,1,2,10.2,5.5,14,80,3.6,334
+Callery Pear,Manhattan,1,2,25.4,7.3,40,75,57.2,1192
+Callery Pear,Manhattan,1,2,20.3,7.3,32,45,29.2,918
+Common Horsechestnut,Staten Island,0,1,101.6,27.4,320,70,289.6,11129
+Common Horsechestnut,Staten Island,0,2,68.6,16.5,216,65,182.4,5490
+Common Horsechestnut,Staten Island,0,1,48.3,15.2,148,85,228.8,3096
+Common Horsechestnut,Staten Island,0,2,55.3,12.2,152,80,61.4,3724
+Common Horsechestnut,Staten Island,1,2,45.7,12.2,120,75,57.2,2685
+Eastern Hemlock,Staten Island,0,3,28.6,9.8,29,10,10.5,908
+Eastern Hemlock,Staten Island,0,3,15.2,12.2,30,20,7.3,459
+Eastern Hemlock,Staten Island,0,3,25.4,13.7,38,30,18.7,775
+Eastern Hemlock,Staten Island,0,3,43.3,12.2,53,55,74.7,1711
+Eastern White Pine,Staten Island,0,2,50.8,19.5,100,80,74.7,4420
+European Beech,Staten Island,0,2,99.1,19.5,234,90,237.1,17207
+Flowering Dogwood,Staten Island,0,2,16.3,5.5,38,40,26.3,743
+Flowering Dogwood,Staten Island,0,2,17.8,6.1,28,75,49.3,804
+Flowering Plum,Staten Island,1,1,15.2,5.8,18,90,21.1,740
+Flowering Plum,Staten Island,1,2,10.2,3.4,20,40,12.3,331
+Ginkgo,Staten Island,1,2,25.4,12.2,38,40,35.3,1187
+Ginkgo,Manhattan,1,2,25.4,8.5,38,65,10.5,1187
+Ginkgo,Bronx,1,2,20.3,11.6,32,55,26.3,915
+Ginkgo,Bronx,1,2,20.3,7.6,32,55,16.4,915
+Ginkgo,Bronx,1,2,5.1,3.4,8,60,1.8,83
+Ginkgo,Bronx,,2,5.1,4,8,50,2.6,83
+Ginkgo,Bronx,,2,20.3,6.7,30,75,26.3,915
+Ginkgo,Bronx,1,3,5.1,4.6,6,10,0.7,54
+Gray Birch,Staten Island,0,2,38,12.2,38,45,79.5,2156
+Honeylocust,Staten Island,0,2,58.4,17.1,92,50,271.5,5397
+Honeylocust,Staten Island,1,2,10.2,4.6,14,35,21.1,414
+Honeylocust,Staten Island,1,3,10.2,3,16,30,18.7,270
+Honeylocust,Staten Island,1,2,12.7,5.2,18,45,32.2,637
+Honeylocust,Staten Island,1,2,12.7,9.1,18,40,29.2,637
+Honeylocust,Staten Island,1,2,12.7,5.2,20,55,32.2,637
+Honeylocust,Staten Island,1,2,40.6,12.2,64,50,99.9,2819
+Honeylocust,Staten Island,1,2,7.6,3.7,10,30,12.3,233
+Honeylocust,Manhattan,1,2,10.2,9.8,14,55,38.6,414
+Honeylocust,Manhattan,1,1,5.1,3.7,7,45,1.8,109
+Honeylocust,Manhattan,1,2,20.3,9.8,30,55,45.6,1005
+Honeylocust,Manhattan,1,2,17.8,12.2,30,55,53.2,864
+Honeylocust,Manhattan,1,2,10.2,6.1,16,85,32.2,414
+Honeylocust,Manhattan,1,2,15.2,9.8,25,55,38.6,741
+Honeylocust,Manhattan,1,2,12.7,4.9,20,85,49.3,637
+Honeylocust,Manhattan,1,2,15.2,6.1,23,95,49.3,741
+Honeylocust,Manhattan,1,2,10.2,3.7,16,65,18.7,414
+Honeylocust,Manhattan,,2,10.2,6.1,17,65,21.1,414
+Honeylocust,Manhattan,1,2,15.2,7.3,23,75,45.6,741
+Honeylocust,Manhattan,,3,12.7,4.6,20,55,32.2,416
+Honeylocust,Manhattan,1,2,15.2,6.7,24,65,42,741
+Honeylocust,Manhattan,1,2,10.2,4.9,16,55,29.2,414
+Honeylocust,Manhattan,1,2,12.7,3.7,18,75,45.6,637
+Honeylocust,Manhattan,1,2,7.6,4,11,45,12.3,233
+Honeylocust,Manhattan,1,2,15.2,6.1,22,75,61.4,741
+Honeylocust,Manhattan,1,2,5.1,3.7,7,55,5.9,104
+Honeylocust,Manhattan,1,2,15.2,9.8,23,65,49.3,741
+Honeylocust,Bronx,1,2,5.1,3.7,8,65,8.8,104
+Honeylocust,Bronx,1,2,2.5,3.7,6,65,7.3,67
+Honeylocust,Bronx,1,2,5.1,3.7,8,65,7.3,104
+Honeylocust,Bronx,1,2,5.1,3.7,8,65,8.8,104
+Honeylocust,Bronx,1,1,10.2,4.9,15,80,29.2,436
+Honeylocust,Bronx,1,2,12.7,6.1,18,55,45.6,637
+Honeylocust,Bronx,1,2,10.2,4.9,15,55,29.2,414
+Honeylocust,Bronx,1,2,20.3,4.9,32,55,45.6,1005
+Honeylocust,Bronx,1,2,12.7,4,20,55,23.6,637
+Honeylocust,Bronx,1,2,22.9,7.6,35,55,45.6,1166
+Honeylocust,Bronx,1,2,10.2,4.6,14,55,29.2,414
+Honeylocust,Bronx,1,2,7.6,4.6,12,55,10.5,233
+Honeylocust,Bronx,1,2,10.2,6.1,17,55,35.3,414
+Honeylocust,Bronx,1,2,5.1,4,9,50,5.9,104
+Honeylocust,Bronx,1,2,10.2,4.9,16,50,16.4,414
+Japanese Flowering Cherry,Staten Island,0,2,69.3,15.8,108,50,116.7,6059
+Japanese Flowering Cherry,Staten Island,0,2,27.4,12.2,38,50,21.1,1308
+Japanese Flowering Cherry,Staten Island,0,2,63.5,15.2,100,95,99.9,5153
+Japanese Flowering Cherry,Manhattan,1,2,7.6,4,9,85,10.5,186
+Japanese Flowering Cherry,Bronx,1,2,7.6,4.9,12,55,7.3,186
+Japanese Flowering Cherry,Bronx,1,2,7.6,4.6,10,55,8.8,186
+Japanese Maple,Staten Island,0,2,23.3,6.1,9,30,42,1066
+Japanese Maple,Staten Island,0,1,32.3,7.3,27,75,79.5,1742
+Japanese Sophora,Manhattan,1,2,35.6,9.8,57,70,65.7,1924
+Japanese Sophora,Manhattan,1,2,15.2,7,24,85,38.6,705
+Japanese Sophora,Manhattan,1,2,10.2,4.6,14,95,12.3,334
+Japanese Sophora,Manhattan,1,2,7.6,3,10,45,1.8,188
+Japanese Sophora,Manhattan,1,2,5.1,2.7,8,45,1.2,84
+Japanese Zelkova,Staten Island,1,2,7.6,4.9,9,45,5.9,248
+Japanese Zelkova,Staten Island,1,2,7.6,3.7,9,30,7.3,248
+Japanese Zelkova,Staten Island,1,2,15.2,7.3,24,85,26.3,754
+Japanese Zelkova,Staten Island,1,2,15.2,6.1,24,70,35.3,754
+Japanese Zelkova,Staten Island,1,2,20.3,9.1,32,85,53.2,1036
+Japanese Zelkova,Staten Island,1,2,20.3,9.1,32,70,53.2,1036
+Japanese Zelkova,Staten Island,1,2,20.3,9.1,30,5,38.6,1036
+Japanese Zelkova,Manhattan,1,2,10.2,3.7,14,55,18.7,442
+Japanese Zelkova,Manhattan,1,2,7.6,5.8,12,55,5.9,248
+Japanese Zelkova,Manhattan,1,1,7.6,5.5,10,45,10.5,262
+Japanese Zelkova,Manhattan,1,1,17.8,6.4,27,85,18.7,931
+Littleleaf Linden,Staten Island,1,3,36.7,9.8,36,40,79.5,1788
+Littleleaf Linden,Staten Island,1,2,43.2,21.9,51,65,79.5,3646
+Littleleaf Linden,Staten Island,1,2,73.7,20.7,85,75,141.3,9901
+Littleleaf Linden,Staten Island,1,2,38.1,12.2,45,85,45.6,2921
+Littleleaf Linden,Staten Island,0,2,81.3,22.9,95,75,280.5,11734
+Littleleaf Linden,Staten Island,1,2,15.2,7.3,18,80,16.4,779
+Littleleaf Linden,Staten Island,1,1,17.8,8.5,21,80,16.4,975
+Littleleaf Linden,Staten Island,1,2,17.8,7.9,21,80,8.8,926
+Littleleaf Linden,Staten Island,1,2,10.2,3.7,12,70,3.6,497
+Littleleaf Linden,Manhattan,1,1,10.2,3.7,11,85,8.8,523
+Littleleaf Linden,Manhattan,1,3,7.6,3.7,8,25,1.8,182
+Littleleaf Linden,Manhattan,1,2,15.2,5.8,17,75,12.3,779
+Littleleaf Linden,Manhattan,1,2,15.2,4.9,18,45,8.8,779
+Littleleaf Linden,Manhattan,,2,20.3,7,24,80,18.7,1096
+Littleleaf Linden,Manhattan,1,2,17.8,4.9,21,85,21.1,926
+Littleleaf Linden,Manhattan,1,2,5.1,4,6,25,0.7,124
+Littleleaf Linden,Manhattan,1,2,17.8,7.3,21,95,26.3,926
+Littleleaf Linden,Bronx,1,1,17.8,6.1,21,95,16.4,975
+London Plane,Staten Island,1,2,71.1,22.9,112,45,220.7,7805
+London Plane,Staten Island,1,2,71.1,21.3,112,35,168.1,7805
+London Plane,Staten Island,1,2,68.6,21.3,94,35,147.8,7285
+London Plane,Staten Island,1,2,22.9,11.6,35,60,61.4,1166
+London Plane,Staten Island,1,2,86.4,26.8,134,65,220.7,11005
+London Plane,Staten Island,1,2,73.7,26.8,116,30,182.4,8343
+London Plane,Staten Island,1,2,73.7,26.8,130,45,197.3,8343
+London Plane,Staten Island,1,2,88.9,27.4,138,35,237.1,11560
+London Plane,Staten Island,1,2,68.6,24.4,106,30,161.2,7285
+London Plane,Staten Island,1,3,53.3,19.5,82,25,147.8,2980
+London Plane,Staten Island,1,2,78.7,18.3,122,30,197.3,9291
+London Plane,Staten Island,1,2,83.8,24.4,132,30,298.9,10442
+London Plane,Staten Island,0,2,83.8,21.3,132,65,262.7,10442
+London Plane,Staten Island,1,2,66,21.9,104,30,175.2,6785
+London Plane,Staten Island,1,2,66,21.9,102,35,99.9,6785
+London Plane,Staten Island,1,2,73.7,21.9,116,35,168.1,8343
+London Plane,Staten Island,1,2,58.4,21.9,92,40,168.1,5397
+London Plane,Staten Island,1,2,61,21.9,96,35,57.2,5840
+London Plane,Staten Island,1,2,73.7,21.9,112,40,57.2,8343
+London Plane,Staten Island,1,2,76.2,21.9,120,40,45.6,8900
+London Plane,Staten Island,1,2,81.3,21.9,128,40,99.9,9870
+London Plane,Staten Island,1,2,78.7,21.9,124,40,99.9,9291
+London Plane,Staten Island,1,2,73.7,21.9,112,35,182.4,8343
+London Plane,Staten Island,1,2,76.2,21.9,120,40,99.9,8900
+London Plane,Staten Island,1,2,94,21.9,148,40,197.3,12647
+London Plane,Staten Island,1,2,86.4,19.5,136,45,189.8,11005
+London Plane,Staten Island,1,2,83.8,19.5,132,45,141.3,10442
+London Plane,Staten Island,1,2,71.1,19.5,110,15,147.8,7805
+London Plane,Staten Island,1,2,66,17.1,102,25,175.2,6785
+London Plane,Staten Island,1,2,68.6,21.3,109,35,197.3,7285
+London Plane,Staten Island,1,1,88.9,29.3,140,60,182.4,12169
+London Plane,Staten Island,1,2,66,29.3,108,50,161.2,6785
+London Plane,Staten Island,1,2,66,29.3,104,35,111,6785
+London Plane,Staten Island,1,2,71.1,29.3,110,40,105.4,7805
+London Plane,Staten Island,1,2,71.1,29.3,110,40,197.3,7805
+London Plane,Staten Island,1,2,66,19.5,104,45,141.3,6785
+London Plane,Staten Island,1,2,86.4,19.5,134,50,197.3,11005
+London Plane,Staten Island,1,2,101.6,19.5,160,60,168.1,14216
+London Plane,Staten Island,1,2,73.7,19.5,45,50,116.7,8343
+London Plane,Staten Island,1,2,68.6,24.4,108,60,421.5,7285
+London Plane,Staten Island,1,2,58.4,24.4,92,60,182.4,5397
+London Plane,Staten Island,1,2,66,24.4,104,60,298.9,6785
+London Plane,Staten Island,1,2,76.2,29.3,120,30,220.7,8900
+London Plane,Staten Island,1,2,63.5,29.3,100,30,134.9,6303
+London Plane,Staten Island,1,2,86.4,29.3,124,35,197.3,11005
+London Plane,Staten Island,1,2,96.5,29.3,152,35,254,13178
+London Plane,Staten Island,1,2,147.3,29.3,200,40,357.5,22109
+London Plane,Staten Island,1,2,71.1,29.3,112,25,220.7,7805
+London Plane,Staten Island,1,2,76.2,29.3,118,25,182.4,8900
+London Plane,Staten Island,1,2,76.2,27.4,120,25,182.4,8900
+London Plane,Staten Island,1,2,66,25.9,102,30,99.9,6785
+London Plane,Staten Island,1,2,71.1,25.9,132,30,197.3,7805
+London Plane,Staten Island,1,2,81.3,27.4,128,30,205,9870
+London Plane,Staten Island,1,2,63.5,25,100,55,280.5,6303
+London Plane,Staten Island,1,3,45.4,13.4,62,25,57.2,2234
+London Plane,Staten Island,1,2,41,13.4,56,50,65.7,2856
+London Plane,Staten Island,1,2,73.7,17.1,116,40,212.8,8343
+London Plane,Staten Island,1,2,43.2,14.6,66,40,99.9,3130
+London Plane,Staten Island,1,2,53.3,12.2,84,40,99.9,4566
+London Plane,Staten Island,1,2,50.8,12.2,80,40,116.7,4178
+London Plane,Staten Island,1,2,38.1,12.2,58,35,79.5,2526
+London Plane,Staten Island,0,2,55.9,21.9,86,40,141.3,4972
+London Plane,Staten Island,0,2,61,21.9,96,35,161.2,5840
+London Plane,Staten Island,1,3,33,12.2,52,35,42,1303
+London Plane,Manhattan,1,3,15.2,11,58,45,45.6,484
+London Plane,Manhattan,1,2,10.2,6.7,15,60,5.9,414
+London Plane,Manhattan,1,3,45.7,12.2,72,45,79.5,2259
+London Plane,Bronx,1,3,7.6,4.9,10,30,4.7,152
+London Plane,Bronx,1,3,7.6,4.9,12,25,4.7,152
+London Plane,Bronx,1,3,10.2,4.9,14,30,26.3,270
+London Plane,Bronx,1,2,10.2,4.9,14,90,18.7,414
+London Plane,Bronx,1,2,10.2,4.9,16,80,29.2,414
+London Plane,Bronx,1,2,10.2,4.9,14,70,10.5,414
+Magnolia,Staten Island,0,1,38.1,9.1,61,90,94.6,2797
+Magnolia,Staten Island,0,2,36,12.2,42,85,57.2,2416
+Mulberry,Staten Island,0,2,99.2,17.1,152,65,262.7,11179
+Northern White-cedar,Bronx,0,1,2.5,1.2,4,95,0.3,66
+Northern White-cedar,Bronx,0,1,2.5,1.2,4,95,0.3,66
+Northern White-cedar,Bronx,0,1,2.5,1.2,4,95,0.3,66
+Northern White-cedar,Bronx,0,1,2.5,1.2,4,95,0.3,66
+Northern White-cedar,Bronx,0,1,2.5,1.2,4,95,0.3,66
+Northern White-cedar,Bronx,,1,2.5,1.2,4,95,0.3,66
+Northern White-cedar,Bronx,1,1,2.5,1.2,4,95,0.3,66
+Norway Maple,Staten Island,1,2,50.8,18.3,50,75,262.7,3695
+Norway Maple,Staten Island,1,2,55.9,14.6,99,55,168.1,4382
+Norway Maple,Staten Island,0,2,32,12.8,40,45,38.6,1723
+Norway Maple,Staten Island,0,2,17.8,12.2,29,70,45.6,822
+Norway Maple,Staten Island,1,3,22.9,8.5,38,40,23.6,708
+Norway Maple,Staten Island,1,2,68.6,22.9,121,55,74.7,6387
+Norway Maple,Staten Island,1,3,61,15.8,108,15,116.7,3351
+Norway Maple,Staten Island,0,2,61,21.9,108,75,182.4,5135
+Norway Maple,Staten Island,0,2,40.6,13.7,70,70,141.3,2516
+Norway Maple,Staten Island,0,2,37.6,15.2,47,70,61.4,2214
+Norway Maple,Staten Island,1,2,63.5,17.1,114,55,182.4,5536
+Norway Maple,Staten Island,0,1,76.1,21.9,126,60,262.7,8171
+Norway Maple,Staten Island,1,2,53.3,14.6,93,60,128.7,4030
+Norway Maple,Staten Island,1,2,50.8,16.5,89,65,99.9,3695
+Norway Maple,Staten Island,1,2,78.7,21.9,138,60,205,8126
+Norway Maple,Staten Island,1,2,50.8,18.3,90,60,128.7,3695
+Norway Maple,Staten Island,0,1,55.9,29.3,99,95,74.7,4613
+Norway Maple,Staten Island,1,2,78.7,19.5,141,55,168.1,8126
+Norway Maple,Staten Island,1,2,71.1,19.5,110,65,122.7,6838
+Norway Maple,Staten Island,1,2,50.8,19.5,90,90,182.4,3695
+Norway Maple,Staten Island,1,2,25.4,11,45,80,45.6,1240
+Norway Maple,Staten Island,1,2,20.3,10.7,36,50,49.3,945
+Norway Maple,Staten Island,1,1,30.5,10.7,52,85,70.1,1684
+Norway Maple,Staten Island,1,2,43.2,12.8,76,80,116.7,2786
+Norway Maple,Staten Island,1,2,33,14,57,60,57.2,1804
+Norway Maple,Staten Island,1,3,40.6,9.8,75,35,45.6,1642
+Norway Maple,Staten Island,1,3,53.3,15.8,92,20,122.7,2630
+Norway Maple,Staten Island,0,1,63.5,21.9,110,85,237.1,5828
+Norway Maple,Staten Island,0,2,23.6,9.8,22,80,18.7,1125
+Norway Maple,Staten Island,0,2,12.7,6.1,22,70,10.5,626
+Norway Maple,Bronx,1,3,12.7,5.8,20,15,3.6,408
+Norway Maple,Bronx,1,2,22.9,7,36,80,29.2,1084
+Norway Maple,Bronx,1,2,22.9,8.8,34,80,42,1084
+Norway Maple,Bronx,,2,20.3,7.6,30,85,29.2,945
+Norway Maple,Bronx,1,2,12.7,4.9,20,60,4.7,626
+Norway Maple,Bronx,1,1,7.6,4.9,13,65,8.8,213
+Norway Spruce,Staten Island,0,2,44.4,13.4,50,85,65.7,3827
+Osage Orange,Staten Island,0,1,18,7.3,21,95,42,854
+Pin Oak,Staten Island,1,2,41,14.6,42,35,74.7,3328
+Pin Oak,Staten Island,0,2,33,13.7,39,60,84.3,2286
+Pin Oak,Staten Island,0,2,106.7,29.3,125,70,212.8,18156
+Pin Oak,Manhattan,1,1,5.1,3,6,70,2.6,131
+Pin Oak,Bronx,1,2,33,11,38,55,49.3,2286
+Red Maple,Staten Island,1,2,17.8,7.3,29,75,35.3,885
+Red Maple,Staten Island,1,2,17.8,7.3,29,65,35.3,885
+Red Maple,Staten Island,1,3,10.2,5.5,16,55,16.4,288
+Red Maple,Bronx,1,2,5.1,3.7,8,45,1.8,110
+Red Maple,Bronx,1,3,15.2,4.6,10,45,2.6,492
+Red Maple,Bronx,1,3,5.1,4.6,8,15,2.6,72
+Red Maple,Bronx,1,1,2.5,1.2,4,95,0.3,75
+Red Mulberry,Staten Island,0,2,17.8,12.2,28,65,42,804
+Red Oak,Manhattan,1,2,5.1,5.5,8,55,2.6,131
+Royal Paulownia,Staten Island,0,2,71.1,21.3,112,40,154.4,4420
+Sassafras,Staten Island,0,2,53.3,18.3,82,25,65.7,3791
+Silver Maple,Staten Island,0,2,104.1,26.5,120,60,298.9,8110
+Silver Maple,Staten Island,0,2,114.3,29.3,135,65,161.2,9149
+Silver Maple,Staten Island,0,2,22.9,15.2,27,75,89.4,880
+Silver Maple,Staten Island,0,2,43.2,17.1,50,70,70.1,1927
+Silver Maple,Staten Island,0,2,61,21.9,70,65,84.3,3373
+Silver Maple,Staten Island,0,2,40.6,20.4,62,55,111,1761
+Silver Maple,Staten Island,0,2,60.3,25.9,66,50,84.3,3312
+Silver Maple,Staten Island,1,3,38.9,17.1,38,35,94.6,1077
+Silver Maple,Staten Island,0,1,81.3,19.5,95,85,168.1,5812
+Silver Maple,Staten Island,1,2,63.5,21.9,74,60,308.3,3619
+Silver Maple,Staten Island,0,2,86.2,21.9,99,40,134.9,6114
+Spruce,Manhattan,1,2,2.5,1.5,8,80,0.7,71
+Sugar Maple,Staten Island,0,2,63.5,23.8,138,80,105.4,7837
+Sugar Maple,Staten Island,0,1,78.7,29.3,168,85,141.3,12233
+Sugar Maple,Bronx,1,2,50.8,19.5,82,65,65.7,5145
+Sweetgum,Staten Island,1,2,30.5,14.6,46,40,38.6,2003
+Sweetgum,Staten Island,1,2,30.5,17.1,48,45,49.3,2003
+Sycamore Maple,Staten Island,1,2,45.7,15.8,30,80,147.8,2491
+Sycamore Maple,Staten Island,0,2,35.6,14,56,65,122.7,1685
+Sycamore Maple,Staten Island,1,2,35.6,16.8,40,70,116.7,1685
+Tree of Heaven,Staten Island,0,2,86.4,15.8,102,5,79.5,3340
+Tree of Heaven,Staten Island,0,2,43.2,15.2,49,5,65.7,1240
+Tree of Heaven,Staten Island,0,2,30.6,9.1,36,40,57.2,877
+Tuliptree,Staten Island,0,1,106.7,34.1,126,90,591,17053
+Tuliptree,Staten Island,0,2,30.5,14.6,46,50,45.6,1842
+Tuliptree,Staten Island,0,1,137.2,35.1,214,70,378.3,23069
+White Mulberry,Staten Island,0,2,25.5,10.1,29,55,84.3,1200
+Willow Oak,Staten Island,1,2,55.9,19.5,88,55,168.1,5266
